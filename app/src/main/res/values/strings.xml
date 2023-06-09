@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicio individual 15</string>
+    <string name="hola">Bienvenido!</string>
+    <string name="ingresa_tu_nombre">Ingresa tu nombre</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="ingresa_nombre">Ingresa tu nombre para continuar</string>
+    <string name="pregunta">¿A qué logo pertenece la imagen?</string>
+    <string name="lays">Lays</string>
+    <string name="pringles">Pringles</string>
+    <string name="marco_polo">Marco Polo</string>
+    <string name="kryzpo">Kryzpo</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="appBarTitle">Ejercicio indiviudal 15</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
